@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/activity_background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="220dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/view_binding_and_check_box" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_marginEnd="10dp"
+        app:srcCompat="@drawable/android_logo2" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="80dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#b4f924"
+        android:text="@string/com_ritikcoder" />
+
+</LinearLayout>

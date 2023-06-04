@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project 13 of Android Course With Saumya Singh- View Binding and Check box</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="i_agree_to_all_t_amp_c"><![CDATA[I agree to all T & C]]></string>
+    <string name="sign_in">Sign in</string>
+    <string name="cancel">Cancel</string>
+    <string name="view_binding_and_check_box">View Binding and Check box</string>
+    <string name="com_ritikcoder">com.RitikCoder</string>
+</resources>
